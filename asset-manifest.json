@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_Kakao_App_2021/static/css/main.6b8fb844.chunk.css",
-    "main.js": "/React_Kakao_App_2021/static/js/main.91a33c4c.chunk.js",
-    "main.js.map": "/React_Kakao_App_2021/static/js/main.91a33c4c.chunk.js.map",
+    "main.css": "/React_Kakao_App_2021/static/css/main.66057fda.chunk.css",
+    "main.js": "/React_Kakao_App_2021/static/js/main.33549968.chunk.js",
+    "main.js.map": "/React_Kakao_App_2021/static/js/main.33549968.chunk.js.map",
     "runtime-main.js": "/React_Kakao_App_2021/static/js/runtime-main.c45911e0.js",
     "runtime-main.js.map": "/React_Kakao_App_2021/static/js/runtime-main.c45911e0.js.map",
     "static/js/2.282c347a.chunk.js": "/React_Kakao_App_2021/static/js/2.282c347a.chunk.js",
     "static/js/2.282c347a.chunk.js.map": "/React_Kakao_App_2021/static/js/2.282c347a.chunk.js.map",
     "index.html": "/React_Kakao_App_2021/index.html",
-    "static/css/main.6b8fb844.chunk.css.map": "/React_Kakao_App_2021/static/css/main.6b8fb844.chunk.css.map",
+    "static/css/main.66057fda.chunk.css.map": "/React_Kakao_App_2021/static/css/main.66057fda.chunk.css.map",
     "static/js/2.282c347a.chunk.js.LICENSE.txt": "/React_Kakao_App_2021/static/js/2.282c347a.chunk.js.LICENSE.txt",
     "static/media/Profile.scss": "/React_Kakao_App_2021/static/media/bg_default.82687b4e.png",
     "static/media/More.scss": "/React_Kakao_App_2021/static/media/path.7d00edf7.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.c45911e0.js",
     "static/js/2.282c347a.chunk.js",
-    "static/css/main.6b8fb844.chunk.css",
-    "static/js/main.91a33c4c.chunk.js"
+    "static/css/main.66057fda.chunk.css",
+    "static/js/main.33549968.chunk.js"
   ]
 }
