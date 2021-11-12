@@ -71,6 +71,7 @@
 .main {
   height: 85.8%; 
   padding-top: 64px;
+  padding-bottom: 54px;
 }
  
 .search-box {
@@ -135,11 +136,16 @@
   }
 }
 .profile-name {
-  flex: auto; /* 내용물의 크기만큼 차지 하도록 */
+  overflow: hidden;
+  flex: none;
+  max-width: 140px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .profile-messages {
   height: 30px;
   line-height: 30px;
+  margin-left: auto;
   margin-right: 15px;
   padding: 0 10px;
   border-radius: 5px;

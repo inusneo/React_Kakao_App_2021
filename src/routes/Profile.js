@@ -7,7 +7,7 @@ function Profile() {
   const myProfile = profileImage[0].image;
   return (
     <>
-      <header className="header profile">
+      <header className="header myProfile">
         <div className="status-bar">
           <div className="left-item">
             <i className="fas fa-plane"></i><i className="fas fa-wifi"></i>

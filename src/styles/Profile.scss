@@ -1,6 +1,6 @@
 /* Profile SCSS */
 
-.header.profile {
+.header.myProfile {
   .title-bar  {
     .left-item a {
       opacity: 1;
@@ -9,8 +9,8 @@
   }
 }
 .main.profile-wrap {
- height: calc(100% - 10px);
- padding-top: 0;
+ height: calc(100vh - 64px);
+ padding: 0;
  .background {
    height: 65vh;
    background: url(../images/bg_default.png) no-repeat 0 0;
