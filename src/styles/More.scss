@@ -1,0 +1,123 @@
+/* More SCSS */
+
+.user-info {
+  display: flex;
+  align-items: center;
+  height: 72px;
+  border-bottom: 1px solid #ebebeb;
+  .profile-img {
+    width: 50px;
+    height: 50px;
+  }
+  .profile-info {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    .profile-name {
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .profile-email {
+      color: #8e9399;
+    }
+  }
+  .chat-img {
+    a {
+      margin-right: 15px;
+      color: #513736;
+      font-size: 30px;
+    }
+  }
+}
+
+.user-menu {
+  height: 125px;
+  border-bottom: 1px solid #ebebeb;
+  ul {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  li {
+    flex: 1;
+    a {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: #513736;
+      font-weight: bold;
+      transition: transform .3s linear;
+    }
+    a:hover {
+      transform: scale(1.05);
+    }
+    i {
+      font-size: 30px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.plus-friends {
+  height: 275px;
+  header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ebebeb;
+    font-size: 16px;
+    span {
+      color: #8e9399;
+    }
+  }
+  .plus-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ebebeb;
+    li {
+      display: flex;
+      align-items: center;
+      width: 50%;
+      height: 45px;
+      i {
+        margin: 0 15px;
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+.more-app {
+  padding: 0 15px;
+  ul {
+    display: flex;
+  }
+  li {
+    width: 76px;
+    a {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+    }
+  }
+  .app-icon {
+    display: block;
+    width: 44px;
+    height: 44px;
+    margin-bottom: 15px;
+    background: url(../images/empty.jpg) no-repeat 0 0;
+    background-size: cover;
+  }
+}
+.more-app li:nth-child(1) .app-icon {
+  background-image: url(../images/kakaostory.png);
+}
+.more-app li:nth-child(2) .app-icon {
+  background-image: url(../images/path.png);
+}
+.more-app li:nth-child(3) .app-icon {
+  background-image: url(../images/kakaofriends.png);
+}
