@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_Kakao_App_2021/static/css/main.6b8fb844.chunk.css",
-    "main.js": "/React_Kakao_App_2021/static/js/main.15b9f156.chunk.js",
-    "main.js.map": "/React_Kakao_App_2021/static/js/main.15b9f156.chunk.js.map",
+    "main.js": "/React_Kakao_App_2021/static/js/main.91a33c4c.chunk.js",
+    "main.js.map": "/React_Kakao_App_2021/static/js/main.91a33c4c.chunk.js.map",
     "runtime-main.js": "/React_Kakao_App_2021/static/js/runtime-main.c45911e0.js",
     "runtime-main.js.map": "/React_Kakao_App_2021/static/js/runtime-main.c45911e0.js.map",
     "static/js/2.282c347a.chunk.js": "/React_Kakao_App_2021/static/js/2.282c347a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c45911e0.js",
     "static/js/2.282c347a.chunk.js",
     "static/css/main.6b8fb844.chunk.css",
-    "static/js/main.15b9f156.chunk.js"
+    "static/js/main.91a33c4c.chunk.js"
   ]
 }
