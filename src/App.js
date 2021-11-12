@@ -7,7 +7,7 @@ import Chatting from './routes/Chatting';
 import Profile from './routes/Profile';
 import './App.scss';
 
-function App({location}) {
+function App() {
   return (
     <BrowserRouter>
       <Routes>
